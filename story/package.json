@@ -1,0 +1,23 @@
+{
+  "name": "the-name-of-the-story-with-no-spaces-or-special-characters",
+  "version": "1.0.0",
+  "description": "the description of the story goes here",
+  "homepage": "http://www.ahomepageforthestory.com",
+  "bugs": "http://www.ahomepageforthestory.com/pagetoreportbugs",
+  "author": {
+    "name": "Story Author",
+    "email": "author@ahomepageforthestory.com",
+    "url": "http://www.storyauthorhomepage.com"
+  },
+  "license": "",
+  "main": "app://host/index.html",
+  "inject-js-start": "app.js",
+  "window": {
+    "title": "Nicely Formatted Story Name",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 600
+  },
+  "private": true
+}

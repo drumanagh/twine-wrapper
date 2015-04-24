@@ -1,0 +1,23 @@
+{
+  "name": "twine-wrapper",
+  "version": "1.0.0",
+  "description": "an app builder for your exported Twine story",
+  "homepage": "https://github.com/drumanagh/twine-wrapper",
+  "bugs": "https://github.com/drumanagh/twine-wrapper/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drumanagh/twine-wrapper.git"
+  },
+  "author": {
+    "name": "Drumanagh Wilpole",
+    "email": "drumanagh@alienspacebats.com",
+    "url": "http://www.alienspacebats.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-exec": "^0.4.6",
+    "grunt-node-webkit-builder": "^1.0.2"
+  }
+}
