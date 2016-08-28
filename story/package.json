@@ -10,14 +10,17 @@
     "url": "http://www.storyauthorhomepage.com"
   },
   "license": "",
-  "main": "app://host/index.html",
-  "inject-js-start": "app.js",
+  "main": "index.html",
+  "inject_js_start": "app.js",
   "window": {
     "title": "Nicely Formatted Story Name",
     "toolbar": false,
     "frame": true,
     "width": 800,
     "height": 600
+  },
+  "webkit": {
+    "plugin": true
   },
   "private": true
 }
