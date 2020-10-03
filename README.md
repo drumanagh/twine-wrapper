@@ -1,3 +1,5 @@
+# This project is dramatically out of date and deprecated. Use [klembot/twinejs](https://github.com/klembot/twinejs) instead.
+
 # twine-wrapper
 
 twine-wrapper is an [NW.js](https://github.com/nwjs/nw.js) app builder for your exported [`Twine`](https://bitbucket.org/klembot/twinejs/) story, to turn it into a self-contained app for Windows, OS X, or Linux.
